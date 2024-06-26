@@ -10,14 +10,11 @@
 
 </p>
 
-- 🔭 I’m currently working ona software company.
+- 🔭 I’m currently working a software company.
 - 🌱 I’m currently learning  the new feature of React Native.
 - 👯 I’m looking to collaborate on the new platform.
 - 🤔 I’m looking for help with new coding skills.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-Below, there are a dash borad project.
 - [Dash Borad project repo:](https://github.com/Charles2029/dashboardcharles)
 - my project sample:https://dashboardcharles.vercel.app/dashboard
   (login: Email: user@nextmail.com  Password: 123456)
