@@ -14,9 +14,13 @@
 - 🌱 I’m currently learning  the new feature of React Native.
 - 👯 I’m looking to collaborate on the new platform.
 - 🤔 I’m looking for help with new coding skills.
--Below, there are a dash borad project.
-- [Dash Borad project repo:](https://github.com/Charles2029/dashboardcharles)
-- my project sample:https://dashboardcharles.vercel.app/dashboard
-  (login: Email: user@nextmail.com  Password: 123456)
-- 
+
+Below, there are a dash borad project:
+
+1: [Dash Borad project repo:](https://github.com/Charles2029/dashboardcharles)
+ my project sample:https://dashboardcharles.vercel.app/dashboard
+(login: Email: user@nextmail.com  Password: 123456)
+
+2:🥇deploy hugo theme blog
+https://myhugoblog-erenm0kfa-charels-projects-597e8673.vercel.app/
 
