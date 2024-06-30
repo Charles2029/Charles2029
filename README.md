@@ -22,5 +22,5 @@ Below, there are a dash borad project:
 (login: Email: user@nextmail.com  Password: 123456)
 
 2:My blog
-[https://myhugoblog-erenm0kfa-charels-projects-597e8673.vercel.app/](https://charelswong.vercel.app/)
+https://charelswong.vercel.app/
 
