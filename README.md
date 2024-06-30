@@ -21,6 +21,6 @@ Below, there are a dash borad project:
  my project sample:https://dashboardcharles.vercel.app/dashboard
 (login: Email: user@nextmail.com  Password: 123456)
 
-2:🥇deploy hugo theme blog
-https://myhugoblog-erenm0kfa-charels-projects-597e8673.vercel.app/
+2:My blog
+[https://myhugoblog-erenm0kfa-charels-projects-597e8673.vercel.app/](https://charelswong.vercel.app/)
 
