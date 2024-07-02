@@ -19,3 +19,6 @@ Below, there are a dash borad project:
 
 2:My blog
 [charles blog](https://charleswong.vercel.app/)
+
+3: [AStro Blog template
+](https://charelsastro.vercel.app/)
