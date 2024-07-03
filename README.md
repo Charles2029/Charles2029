@@ -18,7 +18,7 @@ Below, there are a dash borad project:
 (login: Email: user@nextmail.com  Password: 123456)
 
 2:My blog
-[charles blog](https://charleswong.vercel.app/)
+[Charels blog](https://charlesblog.vercel.app/)
 
 3: [AStro Blog template
 ](https://charelsastro.vercel.app/)
